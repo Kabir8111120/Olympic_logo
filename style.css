@@ -1,0 +1,8 @@
+.body_image{
+background-image: url(download.jpg);    
+}
+#canvas_hello{
+    border-width: 10px;    
+    background-color: white;
+    border-style: ridge;
+}
